@@ -9,3 +9,12 @@ c:\users\amanda\documents\visual studio 2013\Projects\TamuCourseCheck\TamuCourse
 c:\users\amanda\documents\visual studio 2013\Projects\TamuCourseCheck\TamuCourseCheck\obj\Debug\TamuCourseCheck.csprojResolveAssemblyReference.cache
 c:\users\amanda\documents\visual studio 2013\Projects\TamuCourseCheck\TamuCourseCheck\obj\Debug\TamuCourseCheck.exe
 c:\users\amanda\documents\visual studio 2013\Projects\TamuCourseCheck\TamuCourseCheck\obj\Debug\TamuCourseCheck.pdb
+C:\Users\rebec_000\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\bin\Debug\TamuCourseCheck.exe.config
+C:\Users\rebec_000\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\bin\Debug\chromedriver.exe
+C:\Users\rebec_000\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\bin\Debug\nunit.framework.dll
+C:\Users\rebec_000\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\bin\Debug\WebDriver.dll
+C:\Users\rebec_000\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\bin\Debug\nunit.framework.xml
+C:\Users\rebec_000\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\bin\Debug\WebDriver.xml
+C:\Users\rebec_000\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\obj\Debug\TamuCourseCheck.csprojResolveAssemblyReference.cache
+C:\Users\rebec_000\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\obj\Debug\TamuCourseCheck.exe
+C:\Users\rebec_000\Documents\TamuCourseCheck\TamuCourseCheck\TamuCourseCheck\obj\Debug\TamuCourseCheck.pdb
